@@ -1,3 +1,5 @@
+# T05: Instal·lació del domini
+
 ## Un cop dintre, canviarem el nom del servidor
 
 <img width="1021" height="766" alt="image" src="https://github.com/user-attachments/assets/40d56637-ce6c-4064-8397-e532bb9cfbeb" />
