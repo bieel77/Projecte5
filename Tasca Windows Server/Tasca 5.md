@@ -6,7 +6,7 @@
 
 ## Anirem a Local Servers, clickarem al nom, i canviarem el nom donant-l'hi a "Change"
 
-<img width="1023" height="761" alt="image" src="https://github.com/user-attachments/assets/e744201d-79fa-46a6-bf28-d32570caab98" />
+<img width="311" height="376" alt="image" src="https://github.com/user-attachments/assets/bdfd2237-324f-4ec7-938c-89ad0f8af62a" />
 
 ## Ara configurarem la xarxa, per fer això anirem a "Configuració" després a "Xarxa i Internet" i editarem el DNS
 
