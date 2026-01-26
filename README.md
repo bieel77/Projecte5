@@ -72,4 +72,3 @@ Quan arribi el dia de presentar, no només haureu creat una empresa. **Haureu fe
 
 ---
 
-[Torna a la pàgina principal](Projecte5)
