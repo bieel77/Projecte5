@@ -2,6 +2,9 @@
 
 Després del nostre assessorament, TransLògic S.A. ens encarrega el desplegament dels seus servidors Windows Servers 2025.
 
+<img width="325" height="168" alt="image" src="https://github.com/user-attachments/assets/243dbba1-4e89-49af-8738-bb4f60249e1f" />
+
+
 Per aquest motiu, haurem de desplegar diverses màquines virtuals i, amb l’objectiu de ser eficients i seguir bones pràctiques, realitzarem una instal·lació de prova que servirà tant per aprendre els procediments com per elaborar una guia d’instal·lació, que ha de proporcionar una documentació de base a la posterior implantació als sistemes del client.
 
 # Procediment
