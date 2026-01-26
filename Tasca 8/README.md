@@ -13,5 +13,4 @@ Aquesta activitat combina coneixement teòric, pràctica guiada i anàlisi crít
 # Materials i links de suport
 
 - **0226.RA3.AA1 Seguretat Activa** (Moodle Seguretat Informàtica)
-- **Enunciat activitat**: *(enllaç)*
 
