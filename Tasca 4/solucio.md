@@ -63,3 +63,8 @@
 
 <img width="310" height="376" alt="image" src="https://github.com/user-attachments/assets/07fff500-137c-43c7-a584-114f7b68304e" />
 
+## I aturem les actualitzacions de Windows
+
+<img width="782" height="616" alt="image" src="https://github.com/user-attachments/assets/4604762d-4096-4cb2-90dd-74a56fb8b396" />
+
+
