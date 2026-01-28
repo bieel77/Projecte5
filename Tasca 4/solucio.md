@@ -54,3 +54,7 @@
 ## I introduïm una contrasenya al Administrador, que serà: P@ssw0rd
 
 <img width="771" height="422" alt="Captura de pantalla 2026-01-22 163801" src="https://github.com/user-attachments/assets/2801617b-0143-48d9-a85c-f07394d3ce5b" />
+
+## Un cop dintre, canviarem el nom del servidor
+
+<img width="1021" height="766" alt="image" src="https://github.com/user-attachments/assets/40d56637-ce6c-4064-8397-e532bb9cfbeb" />
