@@ -58,3 +58,7 @@
 ## Un cop dintre, canviarem el nom del servidor
 
 <img width="1021" height="766" alt="image" src="https://github.com/user-attachments/assets/40d56637-ce6c-4064-8397-e532bb9cfbeb" />
+
+## Anirem a Local Servers, clickarem al nom, i canviarem el nom donant-l'hi a "Change"
+
+<img width="311" height="376" alt="image" src="https://github.com/user-attachments/assets/bdfd2237-324f-4ec7-938c-89ad0f8af62a" />
