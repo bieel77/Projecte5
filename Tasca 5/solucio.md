@@ -82,9 +82,10 @@
 
 <img width="1021" height="761" alt="image" src="https://github.com/user-attachments/assets/f5dfdcb7-4507-4c32-9c8f-bf2bbbfc89b3" />
 
-## Configurem el DNS
+## Configurem el DNS, li apliquem el 8.8.8.8
 
-<img width="821" height="545" alt="image" src="https://github.com/user-attachments/assets/9ba42a88-187f-40ef-8695-0a8be176a00f" />
+<img width="932" height="526" alt="image" src="https://github.com/user-attachments/assets/b9393cf7-b7cc-4678-9fe9-853e7ce9969d" />
+
 
 ## Li apliquem 8.8.8.8
 
