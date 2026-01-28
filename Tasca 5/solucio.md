@@ -75,7 +75,6 @@
 
 <img width="774" height="585" alt="image" src="https://github.com/user-attachments/assets/09f5862e-f2dc-4b7d-91af-e7a2c216ef57" />
 
-
 ## Instal·lem i al final de la instal·lació se'ns reiniciarà
 
 <img width="748" height="547" alt="image" src="https://github.com/user-attachments/assets/43eb9f1e-ce2a-47a8-a540-432c8e85f310" />
@@ -90,13 +89,8 @@
 
 ## Ens ubiquem a la part de la esquerra i seleccionem DNS, fem click dret i accedim a "DNS Manager"
 
-<img width="1021" height="761" alt="image" src="https://github.com/user-attachments/assets/f5dfdcb7-4507-4c32-9c8f-bf2bbbfc89b3" />
+<img width="1021" height="712" alt="image" src="https://github.com/user-attachments/assets/73620ba0-592c-4ef3-b633-5d7f6911c507" />
 
 ## Configurem el DNS, li apliquem el 8.8.8.8
 
-<img width="932" height="526" alt="image" src="https://github.com/user-attachments/assets/b9393cf7-b7cc-4678-9fe9-853e7ce9969d" />
-
-
-## Li apliquem 8.8.8.8
-
-<img width="514" height="432" alt="image" src="https://github.com/user-attachments/assets/3a24be71-0fdb-4bbe-bdcb-6ce03feaeb80" />
+<img width="516" height="434" alt="image" src="https://github.com/user-attachments/assets/3138378d-70ea-4d59-96a3-44864954c790" />
