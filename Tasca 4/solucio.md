@@ -61,4 +61,5 @@
 
 ## Anirem a Local Servers, clickarem al nom, i canviarem el nom donant-l'hi a "Change"
 
-<img width="311" height="376" alt="image" src="https://github.com/user-attachments/assets/bdfd2237-324f-4ec7-938c-89ad0f8af62a" />
+<img width="310" height="376" alt="image" src="https://github.com/user-attachments/assets/07fff500-137c-43c7-a584-114f7b68304e" />
+
